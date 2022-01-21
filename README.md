@@ -1,4 +1,4 @@
-# datapreperation
+# datapreparation
 
 ## installation
 This repository is part of the course data preparation. To run the notebooks several libraries are needed. 
